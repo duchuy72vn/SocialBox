@@ -14,18 +14,5 @@ else
 	wget raw.githubusercontent.com/Sup3r-Us3r/scripts/master/fb-brute.pl
 	cd ..
 fi
-#Instagram
-git clone https://github.com/thelinuxchoice/instainsane.git
-cd instainsane
-chmod +x instainsane.sh
-chmod +x install.sh
-sudo ./install.sh
-cd ..
-#Twitter
-git clone https://github.com/thelinuxchoice/tweetshell.git
-cd tweetshell
-chmod +x tweetshell.sh
-chmod +x install.sh
-sudo ./install.sh
-cd ..
+
 
