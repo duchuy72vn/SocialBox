@@ -14,5 +14,9 @@ else
 	wget raw.githubusercontent.com/Sup3r-Us3r/scripts/master/fb-brute.pl
 	cd ..
 fi
-
+cd SocialBox
+chmod +x SocialBox.sh
+chmod +x install-sb.sh
+./install-sb.sh
+./SocialBox.sh
 
